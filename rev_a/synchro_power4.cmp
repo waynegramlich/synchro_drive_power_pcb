@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-21 BZR 4712)-product date = Tue 25 Feb 2014 09:12:30 PM PST
+
+BeginCmp
+TimeStamp = /530D69C3;
+Reference = H1;
+ValeurCmp = M5.0_#10_HOLE;
+IdModule  = Synchro_Power4_Rev_A:M5.0_#10_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D69D5;
+Reference = H2;
+ValeurCmp = M5.0_#10_HOLE;
+IdModule  = Synchro_Power4_Rev_A:M5.0_#10_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D69E0;
+Reference = H3;
+ValeurCmp = M5.0_#10_HOLE;
+IdModule  = Synchro_Power4_Rev_A:M5.0_#10_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D69EB;
+Reference = H4;
+ValeurCmp = M5.0_#10_HOLE;
+IdModule  = Synchro_Power4_Rev_A:M5.0_#10_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D57A1;
+Reference = J1;
+ValeurCmp = MB_TERMINATE;
+IdModule  = Synchro_Power4_Rev_A:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D5237;
+Reference = N1;
+ValeurCmp = LPWR_SW;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D522C;
+Reference = N2;
+ValeurCmp = 7.2V_BAT;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D42DD;
+Reference = N3;
+ValeurCmp = ESTOP2;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D42D2;
+Reference = N4;
+ValeurCmp = ESTOP1;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D42C7;
+Reference = N5;
+ValeurCmp = MPWR_SW;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D42B5;
+Reference = N6;
+ValeurCmp = 12V_BAT2;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D4292;
+Reference = N7;
+ValeurCmp = 12V_BAT1;
+IdModule  = Synchro_Power4_Rev_A:TERM_BLOCK_HEADER_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D1D66;
+Reference = N8;
+ValeurCmp = MB_MASTER_FRONT;
+IdModule  = Synchro_Power4_Rev_A:HEADER_2X5_SHROUDED;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D020B;
+Reference = N9;
+ValeurCmp = FRONT_LEFT;
+IdModule  = Synchro_Power4_Rev_A:OMRON_X4GA_2632;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D01F9;
+Reference = N10;
+ValeurCmp = FRONT_RIGHT;
+IdModule  = Synchro_Power4_Rev_A:OMRON_X4GA_2632;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D046F;
+Reference = N11;
+ValeurCmp = BACK_LEFT;
+IdModule  = Synchro_Power4_Rev_A:OMRON_X4GA_2632;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D0469;
+Reference = N12;
+ValeurCmp = BACK_RIGHT;
+IdModule  = Synchro_Power4_Rev_A:OMRON_X4GA_2632;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D2F27;
+Reference = N13;
+ValeurCmp = MB_MASTER_BACK;
+IdModule  = Synchro_Power4_Rev_A:HEADER_2X5_SHROUDED;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D578D;
+Reference = R1;
+ValeurCmp = 120;
+IdModule  = Synchro_Power4_Rev_A:RES_10MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D7799;
+Reference = R2;
+ValeurCmp = 120;
+IdModule  = Synchro_Power4_Rev_A:RES_10MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D5FF4;
+Reference = TP1;
+ValeurCmp = LPWR;
+IdModule  = Synchro_Power4_Rev_A:TEST_POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D5FE9;
+Reference = TP2;
+ValeurCmp = MPWR;
+IdModule  = Synchro_Power4_Rev_A:TEST_POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D5FDE;
+Reference = TP3;
+ValeurCmp = MGND;
+IdModule  = Synchro_Power4_Rev_A:TEST_POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D5FCC;
+Reference = TP4;
+ValeurCmp = LGND;
+IdModule  = Synchro_Power4_Rev_A:TEST_POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D7784;
+Reference = TP5;
+ValeurCmp = TERM1;
+IdModule  = Synchro_Power4_Rev_A:TEST_POINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /530D77A4;
+Reference = TP6;
+ValeurCmp = TERM2;
+IdModule  = Synchro_Power4_Rev_A:TEST_POINT;
+EndCmp
+
+EndListe
