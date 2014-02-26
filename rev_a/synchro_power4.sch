@@ -38,7 +38,7 @@ encoding utf-8
 Sheet 1 1
 Title "Synchro Drive Power"
 Date ""
-Rev ""
+Rev "A"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -851,4 +851,5 @@ Wire Wire Line
 	5400 6700 5200 6700
 Wire Wire Line
 	5200 6700 5200 6550
+NoConn ~ 8600 4900
 $EndSCHEMATC
